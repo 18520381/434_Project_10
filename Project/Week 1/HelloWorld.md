@@ -5,5 +5,5 @@
 - Install OpenCV for Python
 
 # Write a "Hello World" app
-Thử mỗi đoạn
-Enter xuống dòng
+  Thử mỗi đoạn
+  Enter xuống dòng

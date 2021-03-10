@@ -5,5 +5,10 @@
 - Install OpenCV for Python
 
 # Write a "Hello World" app
-  Thử mỗi đoạn
-  Enter xuống dòng
+```sh
+thử mỗi đoạn
+enter thì
+xuống một dòng
+đến khi nào hết
+thì `x3
+```

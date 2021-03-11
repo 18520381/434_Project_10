@@ -6,9 +6,5 @@
 
 # Write a "Hello World" app
 ```sh
-thử mỗi đoạn
-enter thì
-xuống một dòng
-đến khi nào hết
-thì `x3
+
 ```

@@ -5,6 +5,9 @@
 - Install OpenCV for Python
 
 # Write a "Hello World" app
+
+The below code is OpenCV.py in the directory 
+
 ```python
 import cv2
 import numpy as np

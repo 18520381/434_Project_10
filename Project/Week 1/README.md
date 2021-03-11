@@ -5,7 +5,7 @@
 - Install OpenCV for Python
 
 # Write a "Hello World" app
-
+```python
 import cv2
 import numpy as np
 
@@ -18,6 +18,7 @@ frame_height = int(pro.get(4))
 
 out = cv2.VideoWriter('outpy.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (frame_width,frame_height))
 
+
 while(True):
   ret, frame = pro.read()
   if ret == True: 
@@ -25,10 +26,12 @@ while(True):
     cv2.imshow('frame',frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
       break
+
   else:
     break 
 
 pro.release()
 out.release()
 
-cv2.destroyAllWindows() 
+cv2.destroyAllWindows()
+```

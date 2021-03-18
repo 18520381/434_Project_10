@@ -1,8 +1,10 @@
 # Setup Environment
-- Create Github Repository: https://github.com/18520381/434_Project_10
-- Install Ubuntu Destop: [direction to Ubuntu offical page](https://quantrimang.com/cach-cai-ubuntu-song-song-voi-windows-bang-usb-148331)
-- Install Python 3.6 or later: [how to install python](https://phoenixnap.com/kb/install-pip-windows)
-- Install OpenCV for Python : [how to install openCV](https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html?fbclid=IwAR35GtZdqDXTJJInN_cqtHezxizclsA4ULvCqrVVEjCpeZ4-ScbQuCt9l7I)
+- Create Github Repository: [This is my repository](https://github.com/18520381/434_Project_10)
+- Install Ubuntu Destop: [How to install dual boot](https://quantrimang.com/cach-cai-ubuntu-song-song-voi-windows-bang-usb-148331)
+- Install Python 3.6 or later: [How to install Python in Ubuntu](https://phoenixnap.com/kb/install-pip-windows)
+- Install OpenCV for Python : [How to install OpenCV in Ubuntu](https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html?fbclid=IwAR35GtZdqDXTJJInN_cqtHezxizclsA4ULvCqrVVEjCpeZ4-ScbQuCt9l7I)
+- Install ModelSim : [How to install ModelSim in Ubuntu](https://www.youtube.com/watch?v=5y1zwylqgUM)
+- Install Vivado : [How to install Vivado in Ubuntu](https://github.com/18520381/434_Project_10/blob/main/Project/Week%201/Vivado_Install_Guide.pdf)
 
 # Write a "Hello World" app
 

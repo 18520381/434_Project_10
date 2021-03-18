@@ -1,8 +1,8 @@
 # Setup Environment
 - Create Github Repository: https://github.com/18520381/434_Project_10
-- Install Ubuntu Destop: https://ubuntu.com/download/desktop
-- Install Python 3.6 or later: https://phoenixnap.com/kb/install-pip-windows
-- Install OpenCV for Python : https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html?fbclid=IwAR35GtZdqDXTJJInN_cqtHezxizclsA4ULvCqrVVEjCpeZ4-ScbQuCt9l7I
+- Install Ubuntu Destop: [direction to Ubuntu offical page](https://quantrimang.com/cach-cai-ubuntu-song-song-voi-windows-bang-usb-148331)
+- Install Python 3.6 or later: [how to install python](https://phoenixnap.com/kb/install-pip-windows)
+- Install OpenCV for Python : [how to install openCV](https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html?fbclid=IwAR35GtZdqDXTJJInN_cqtHezxizclsA4ULvCqrVVEjCpeZ4-ScbQuCt9l7I)
 
 # Write a "Hello World" app
 

@@ -75,7 +75,7 @@ for i in range(image.shape[0]):
         t2 = f2.readline()  
         if (int(t1) == int(t2)):
             acc += 1
-print('Accuracy: ',acc/(gray.shape[1]*gray.shape[0])*100,'%')
+print('Accuracy: ',acc/(image.shape[1]*image.shape[0])*100,'%')
 f1.close()
 f2.close()
 

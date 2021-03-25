@@ -6,6 +6,6 @@ f = open('/home/iodern/CE434/Week2/RGB.txt', 'w')
 for i in range(image.shape[0]):
     for j in range(image.shape[1]):
         r, g, b = image[i,j]
-        x = str(r) + '\t' + str(g) + '\t' + str(b) + '\n'
+        x = bin(r)[2:].zfill(8) + bin(g)[2:].zfill(8) + bin(b)[2:].zfill(8) + '\n'
         f.write (x)       
 f.close()

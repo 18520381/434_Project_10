@@ -11,7 +11,7 @@ f = open('/home/iodern/CE434/Week2/RGB.txt', 'w')
 for i in range(image.shape[0]):
     for j in range(image.shape[1]):
         r, g, b = image[i,j]
-        x = str(r) + '\t' + str(g) + '\t' + str(b) + '\n'
+        x = bin(r)[2:].zfill(8) + bin(g)[2:].zfill(8) + bin(b)[2:].zfill(8) + '\n'
         f.write (x)       
 f.close()
 
@@ -60,7 +60,7 @@ f = open('/home/iodern/CE434/Week2/GreyOpenCV.txt', 'w')
 for i in range(gray.shape[0]):
     for j in range(gray.shape[1]):
         L = gray[i,j]
-        x = str(L) + '\n'
+        x = bin(L)[2:].zfill(8) + '\n'
         f.write (x)       
 f.close()
 ```
@@ -79,7 +79,7 @@ new_img = Image.new('L', swap)
 pixels_new = new_img.load()
 for i in range(new_img.size[1]):
     for j in range(new_img.size[0]):
-        t = f.readline()
+        t = int(f.readline(), 2)
         pixels_new[j,i] = (int(t))
 f.close()
 

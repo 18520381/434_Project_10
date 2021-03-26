@@ -1,4 +1,4 @@
-# Convert RBG to Grayscales of an image
+# Convert RBG to Grayscales of an image (Python)
 
 Create a txt with R G B value by OpenCV
 

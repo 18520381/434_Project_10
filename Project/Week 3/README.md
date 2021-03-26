@@ -1,4 +1,5 @@
 # Convert RBG to Grayscales of an image (Verilog)
+- Python program from the last week: [The repository](https://github.com/18520381/434_Project_10/tree/main/Project/Week%202)
 
 Convert R G B value to L value by Verilog 
 ```

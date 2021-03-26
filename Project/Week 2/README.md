@@ -21,37 +21,6 @@ f.close()
 
 ```
 
-Convert R G B value to L value by Verilog
-
-```
-module RGBtoGrey(
-    input clk;
-    input rst;
-
-    input [7:0] red;
-    input [7:0] green;
-    input [7:0] blue;
-
-    output reg [7:0] grey;
-);
-
-    always @(posedge clk) begin
-        if (rst) begin
-            grey <= 0;
-            done <= 0;
-        end
-        else begin
-            if (doing == 1) begin
-                grey <= (red >> 2) + (red >> 5) + 
-                        (green >> 1) + (green >> 4) +
-                        (blue >> 4) + (blue >> 5);
-            end
-        end
-    end
-endmodule
-
-```
-
 Convert R G B value to L value by OpenCV
 
 ```python

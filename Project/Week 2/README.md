@@ -5,8 +5,12 @@ Create a txt with R G B value by OpenCV
 ```python
 import cv2
 
-image = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
- 
+imagein = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
+
+size = (100, 100)
+image = cv2.resize(imagein, size, interpolation= cv2.INTER_AREA)
+
+
 f = open('/home/iodern/CE434/Week2/RGB.txt', 'w')
 for i in range(image.shape[0]):
     for j in range(image.shape[1]):
@@ -53,7 +57,11 @@ Convert R G B value to L value by OpenCV
 ```python
 import cv2
 
-image = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
+imagein = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
+
+size = (100, 100)
+image = cv2.resize(imagein, size, interpolation= cv2.INTER_AREA)
+
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 f = open('/home/iodern/CE434/Week2/GreyOpenCV.txt', 'w')
@@ -94,13 +102,13 @@ image = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
 f1 = open('/home/iodern/CE434/Week2/GreyVerilog.txt', 'r')
 f2 = open('/home/iodern/CE434/Week2/GreyOpenCV.txt', 'r')
 acc = 0
-for i in range(image.shape[0]):
-    for j in range(image.shape[1]):
+for i in range(gray.shape[0]):
+    for j in range(gray.shape[1]):
         t1 = f1.readline()
         t2 = f2.readline()  
-        if (int(t1) == int(t2)):
-            acc += 1
-print('Accuracy: ',acc/(image.shape[1]*image.shape[0])*100,'%')
+        acc += 1 - abs((int(t1) - int(t2))/ int(t2))       
+print('Accuracy: ',acc/(gray.shape[1]*gray.shape[0])*100,'%')
+
 f1.close()
 f2.close()
 

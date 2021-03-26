@@ -1,23 +1,11 @@
 # Convert RBG to Grayscales of an image (Verilog)
 - Python program from the last week: [The repository](https://github.com/18520381/434_Project_10/tree/main/Project/Week%202)
+### RGB to grayscales conservation:
+Formular: L = 0.296 * Red + 0.585 * Green + 0.117 * Blue
+![alt text](https://github.com/18520381/434_Project_10/blob/2b67cc709b54f53f75065c8e903ed8075dfb6a91/Project/Week%203/Untitled%20Diagram.png
+)
 
-Main
-```
-import os
-# Run RGB2Binary.py to convert RGB Image to Binary txt file
-os.system('python3 /home/pc/Python/Convert_RGB_Binary.py')
-
-# Compile module verilog and testbench
-os.system('vlog /home/pc/FPGA/Convert.v /home/pc/FPGA/testbench11.v')
-
-# Run simulation
-os.system('vsim -c -do "run -all" testbench11')
-
-# Convert Binary to Decimal and display result
-os.system('python3 /home/pc/Python/Processing.py')
-```
-
-Convert R G B value to L value by Verilog 
+###Convert R G B value to L value by Verilog 
 ```
 module Convert(
     input clk, reset,
@@ -38,12 +26,12 @@ module Convert(
 
 endmodule
 ```
-Create params.v file 
+###Create params.v file 
 ```
 parameter WIDTH = 100;
 parameter HEIGHT = 100;
 ```
-Create binary file from testbench by Verilog
+###Create binary file from testbench by Verilog
 ```
 `timescale 1ns/1ps
 

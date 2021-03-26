@@ -1,7 +1,11 @@
 import cv2
 from PIL import Image
 
-image = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
+imagein = cv2.imread('/home/iodern/CE434/Week2/test04.jpg')
+
+size = (100, 100)
+image = cv2.resize(imagein, size, interpolation= cv2.INTER_AREA)
+
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
   
 cv2.imshow('Original image',image)
@@ -35,8 +39,7 @@ for i in range(gray.shape[0]):
     for j in range(gray.shape[1]):
         t1 = f1.readline()
         t2 = f2.readline()  
-        if (int(t1) == int(t2)):
-            acc += 1
+        acc += 1 - abs((int(t1) - int(t2))/ int(t2))       
 print('Accuracy: ',acc/(gray.shape[1]*gray.shape[0])*100,'%')
 f1.close()
 f2.close()

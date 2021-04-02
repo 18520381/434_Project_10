@@ -13,7 +13,7 @@ Do đó, nhóm chúng em chọn đề tài "Thuật toán tách biên ảnh trê
 ```
 # Fix các vấn đề về tuần trước 
 ## RGB to grayscales conservation and diagram:
-Formular: L = 0.296 * Red + 0.585 * Green + 0.117 * Blue 
+Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue 
 ![alt text](https://github.com/18520381/434_Project_10/blob/0c2d6752ed176ddb03e03317913f25833b17c153/Project/Week%204/Untitled%20Diagram(1).png)
 ## Thêm value_in, value_out ở TestBench
 ###  Convert R G B value to L value by Verilog 

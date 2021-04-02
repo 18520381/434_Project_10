@@ -1,11 +1,13 @@
 # Chọn đề tài làm đồ án
 ```
-Ngày nay xử lý ảnh ngày càng được phổ biến và được phát triền mạnh với nhiều ứng dụng trong nghành y học , an ninh ,giao thông
-hệ thống bảo mật, tự động hóa,...Các thiết bị chuẩn đoán y học dựa vào các thiết bị phần cứng đa dạng như máy chụp cắt lớp , máy chụp cộng hưởng từ ,
-máy siêu âm , máy điện tim , chụp X-Ray. Trong an ninh,xử lý ảnh giúp phát hiện chuyển động, giúp cảnh báo xâm phạm, ...
-Nhằm thiết kế các ứng dụng đạt hiệu quả cao thì vấn đề xử lý ảnh nhằm đáp ứng về tốc độ ,thời gian thực là những yêu cầu rất quan trọng trong hầu hết
-các ứng dụng . Để đáp ứng được các yêu cầu này thì ta phải xử lý một cách tốt nhất từng giai đoạn trong quá trình xử lý ảnh . Một trong những giai đoạn 
-quan trọng này là tách biên của một bức ảnh . Do đó, nhóm chúng tôi chọn đề tài "Thực thi và đánh giá thuật toán tách biên ảnh trên FPGA".
+Ngày nay xử lý ảnh ngày càng được phổ biến và được phát triền mạnh với nhiều ứng dụng trong nghành y học , an ninh ,
+giao thông hệ thống bảo mật, tự động hóa,...Các thiết bị chuẩn đoán y học dựa vào các thiết bị phần cứng đa dạng như 
+máy chụp cắt lớp , máy chụp cộng hưởng từ ,máy siêu âm , máy điện tim , chụp X-Ray. Trong an ninh,xử lý ảnh giúp phát
+hiện chuyển động, giúp cảnh báo xâm phạm, ...
+Nhằm thiết kế các ứng dụng đạt hiệu quả cao thì vấn đề xử lý ảnh nhằm đáp ứng về tốc độ ,thời gian thực là những yêu
+cầu rất quan trọng trong hầu hết các ứng dụng . Để đáp ứng được các yêu cầu này thì ta phải xử lý một cách tốt nhất 
+từng giai đoạn trong quá trình xử lý ảnh . Một trong những giai đoạn quan trọng này là tách biên của một bức ảnh . 
+Do đó, nhóm chúng tôi chọn đề tài "Thực thi và đánh giá thuật toán tách biên ảnh trên FPGA".
 
 ```
 # Sữa lỗi tuần trước , thêm value_in, value_out

@@ -11,7 +11,11 @@ từng giai đoạn trong quá trình xử lý ảnh . Một trong những giai 
 Do đó, nhóm chúng em chọn đề tài "Thuật toán tách biên ảnh trên FPGA".
 
 ```
-# Fix lỗi tuần trước , thêm value_in, value_out
+# Fix các vấn đề về tuần trước 
+## RGB to grayscales conservation and diagram:
+Formular: L = 0.296 * Red + 0.585 * Green + 0.117 * Blue 
+![alt text](https://github.com/18520381/434_Project_10/blob/524ee9c4982dfa8dfe599257c8d0684d5483ca20/Project/Week%204/Untitled%20Diagram.png)
+## Thêm value_in, value_out ở TestBench
 ###  Convert R G B value to L value by Verilog 
 ```
 module Convert(

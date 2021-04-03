@@ -22,8 +22,8 @@ Một số dữ liệu tham khảo
 [Tham khảo 4](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/Lu%E1%BA%ADn%20v%C4%83n_Nguy%E1%BB%85n%20Kh%C3%A2m%20H%E1%BB%93ng%20Quang.pdf)
 
 
-# Fix các vấn đề về tuần trước
-
+# Fix the issue from last week
+Project from the last week [The repository](https://github.com/18520381/434_Project_10/tree/main/Project/Week%203)
 
 ## Directory tree
 ![alt text](https://github.com/18520381/434_Project_10/blob/81089d3cb4ccd3f1d2c72b2a34269367f7b30b5c/Project/Week%204/Tree.png)
@@ -32,8 +32,12 @@ Một số dữ liệu tham khảo
 Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue 
 ![alt text](https://github.com/18520381/434_Project_10/blob/0c2d6752ed176ddb03e03317913f25833b17c153/Project/Week%204/Untitled%20Diagram(1).png)
 
-## Đổi sang pipeline 
-	Vấn đề: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 
+## Schematic
+![alt text](https://github.com/18520381/434_Project_10/blob/b36d1b30ee98cf1dac18a2253f9e0cd7fa846407/Project/Week%204/Schematic.png)
+
+## Convert to pipeline 
+
+Problem: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 
 
 ###  Convert R G B value to L value by Verilog 
 ```

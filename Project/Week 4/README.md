@@ -32,9 +32,6 @@ Project from the last week [The repository](https://github.com/18520381/434_Proj
 Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue 
 ![alt text](https://github.com/18520381/434_Project_10/blob/0c2d6752ed176ddb03e03317913f25833b17c153/Project/Week%204/Untitled%20Diagram(1).png)
 
-## Schematic
-![alt text](https://github.com/18520381/434_Project_10/blob/b36d1b30ee98cf1dac18a2253f9e0cd7fa846407/Project/Week%204/Schematic.png)
-
 ## Convert to pipeline 
 
 Problem: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 

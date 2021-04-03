@@ -2,10 +2,14 @@
 - Python program from the last week: [The repository](https://github.com/18520381/434_Project_10/tree/main/Project/Week%202)
 ### Diagram block
 ![alt text](https://github.com/18520381/434_Project_10/blob/d0efeaf1f6734f0174884466dc701c62e6a9d036/Project/Week%203/Diagram.png)
+
 ### RGB to grayscales conservation:
 Formular: L = 0.296 * Red + 0.585 * Green + 0.117 * Blue
 ![alt text](https://github.com/18520381/434_Project_10/blob/2b67cc709b54f53f75065c8e903ed8075dfb6a91/Project/Week%203/Untitled%20Diagram.png
 )
+
+### Schematic
+![alt text](https://github.com/18520381/434_Project_10/blob/8f19618a746bbcc4d930837693f8c82a1d5d3dab/Project/Week%203/Schematic.png)
 
 ### Convert R G B value to L value by Verilog 
 ```

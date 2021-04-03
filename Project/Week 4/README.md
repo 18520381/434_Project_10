@@ -14,8 +14,11 @@ Do đó, nhóm chúng em chọn đề tài "Thuật toán tách biên ảnh trê
 Một số dữ liệu tham khảo
 
 [Tham khảo 1](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/26.%20Pham%20thi%20Quynh%20Trang.pdf)
+
 [Tham khảo 2](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/5.-L%C6%B0%C6%A1ng-H%C3%A0-Qu%E1%BA%BF-Y%C3%AAn-91.pdf)
+
 [Tham khảo 3](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/69-1-134-1-10-20160328.pdf)
+
 [Tham khảo 4](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/Lu%E1%BA%ADn%20v%C4%83n_Nguy%E1%BB%85n%20Kh%C3%A2m%20H%E1%BB%93ng%20Quang.pdf)
 
 
@@ -31,6 +34,7 @@ Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue
 
 ## Đổi sang pipeline 
 	Vấn đề: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 
+
 ###  Convert R G B value to L value by Verilog 
 ```
 module Convert(
@@ -175,6 +179,7 @@ module Block4(d0,d1,q,clk,rst);
 	end
 endmodule
 ```
+
 ### Create binary file from testbench by Verilog
 ```
 `timescale 1ns/1ps

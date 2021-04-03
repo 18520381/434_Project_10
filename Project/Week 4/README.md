@@ -1,6 +1,6 @@
 # Chọn đề tài làm đồ án
 Đề tài đã chọn: Thuật toán tách biên ảnh trên FPGA
-```
+
 Ngày nay xử lý ảnh ngày càng được phổ biến và được phát triền mạnh với nhiều ứng dụng trong nghành y học , an ninh ,
 giao thông hệ thống bảo mật, tự động hóa,...Các thiết bị chuẩn đoán y học dựa vào các thiết bị phần cứng đa dạng như 
 máy chụp cắt lớp , máy chụp cộng hưởng từ ,máy siêu âm , máy điện tim , chụp X-Ray. Trong an ninh,xử lý ảnh giúp phát
@@ -10,11 +10,17 @@ cầu rất quan trọng trong hầu hết các ứng dụng . Để đáp ứng
 từng giai đoạn trong quá trình xử lý ảnh . Một trong những giai đoạn quan trọng này là tách biên của một bức ảnh . 
 Do đó, nhóm chúng em chọn đề tài "Thuật toán tách biên ảnh trên FPGA".
 
-```
-# Fix các vấn đề về tuần trước 
+
+# Fix các vấn đề về tuần trước
+
+
+## Directory tree
+![alt text](https://github.com/18520381/434_Project_10/blob/81089d3cb4ccd3f1d2c72b2a34269367f7b30b5c/Project/Week%204/Tree.png)
+
 ## RGB to grayscales conservation and diagram:
 Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue 
 ![alt text](https://github.com/18520381/434_Project_10/blob/0c2d6752ed176ddb03e03317913f25833b17c153/Project/Week%204/Untitled%20Diagram(1).png)
+
 ## Đổi sang pipeline 
 	Vấn đề: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 
 ###  Convert R G B value to L value by Verilog 

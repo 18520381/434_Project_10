@@ -5,10 +5,18 @@ Ngày nay xử lý ảnh ngày càng được phổ biến và được phát tr
 giao thông hệ thống bảo mật, tự động hóa,...Các thiết bị chuẩn đoán y học dựa vào các thiết bị phần cứng đa dạng như 
 máy chụp cắt lớp , máy chụp cộng hưởng từ ,máy siêu âm , máy điện tim , chụp X-Ray. Trong an ninh,xử lý ảnh giúp phát
 hiện chuyển động, giúp cảnh báo xâm phạm, ...
+
 Nhằm thiết kế các ứng dụng đạt hiệu quả cao thì vấn đề xử lý ảnh nhằm đáp ứng về tốc độ ,thời gian thực là những yêu
 cầu rất quan trọng trong hầu hết các ứng dụng . Để đáp ứng được các yêu cầu này thì ta phải xử lý một cách tốt nhất 
 từng giai đoạn trong quá trình xử lý ảnh . Một trong những giai đoạn quan trọng này là tách biên của một bức ảnh . 
 Do đó, nhóm chúng em chọn đề tài "Thuật toán tách biên ảnh trên FPGA".
+
+Một số dữ liệu tham khảo
+
+[Tham khảo 1](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/26.%20Pham%20thi%20Quynh%20Trang.pdf)
+[Tham khảo 2](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/5.-L%C6%B0%C6%A1ng-H%C3%A0-Qu%E1%BA%BF-Y%C3%AAn-91.pdf)
+[Tham khảo 3](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/69-1-134-1-10-20160328.pdf)
+[Tham khảo 4](https://github.com/18520381/434_Project_10/blob/87d6b34ee40b26779658dc9cf5d9bbb99484cb57/Project/Week%204/Lu%E1%BA%ADn%20v%C4%83n_Nguy%E1%BB%85n%20Kh%C3%A2m%20H%E1%BB%93ng%20Quang.pdf)
 
 
 # Fix các vấn đề về tuần trước

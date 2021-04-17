@@ -12,7 +12,7 @@ Formular: L = 0.281 * Red + 0.563 * Green + 0.094 * Blue
 
 ## Convert to pipeline 
 
-Problem: Chạy ra kết quả nhưng khi add vô file.txt thì lại bị xxxxxxx 
+Problem: Can get the result but while adding file.txt, it cause xxxxxxx 
 
 ###  Convert R G B value to L value by Verilog 
 ```

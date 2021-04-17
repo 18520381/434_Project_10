@@ -14,4 +14,6 @@
 ## In main project
 How can we do this project [In here](https://medium.com/pythoneers/vgg-16-architecture-implementation-and-practical-use-e0fef1d14557)
 
+Some paper about this project [In here](https://github.com/18520381/434_Project_10/blob/b10e351bd3e1724d856f473f1b275ca974b9a7ac/License%20Plate/License-Plate-Recognition-System-using-Deep-Learning.pdf)
+
 The database for training [In here](https://www.kaggle.com/andrewmvd/car-plate-detection)

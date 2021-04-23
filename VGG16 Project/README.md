@@ -22,3 +22,5 @@ Using Google Colab to do this project
 [ Pytorch](https://github.com/18520381/434_Project_10/blob/633e25362f979f071f447ad4bba01540b573714c/VGG16%20Project/test.ipynb)
 
 Using Kaggle to get the database for training [In here](https://www.kaggle.com/)
+
+Powerpoint file [In here](https://github.com/18520381/434_Project_10/blob/da33608627d25dd1abedcf5d6fd0412f27445508/VGG16%20Project/CE434.pptx)

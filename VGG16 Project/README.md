@@ -12,6 +12,7 @@
 - Trained on ImageNet data
 - It has an accuracy of 92.7%.
 - it has one more version of it Vgg 19, a total of 19 layers with weights.
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Convulution2D.png)
 
 ## In main project
 Step by step do this project [In here](https://medium.com/pythoneers/vgg-16-architecture-implementation-and-practical-use-e0fef1d14557)

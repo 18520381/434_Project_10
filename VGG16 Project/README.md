@@ -1,7 +1,7 @@
 # Project Image Classification using VGG 16
 ## Some fact about VGG 16
 
-![alt text](https://github.com/18520381/434_Project_10/blob/7786f5a7ddf8a849a866ee62dff1dbfa0d3782a5/VGG16%20Project/vgg16.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/VGG16.png)
 
 - It is also called the OxfordNet model, named after the Visual Geometry Group from Oxford.
 - Number 16 refers that it has a total of 16 layers that has some weights.
@@ -13,6 +13,11 @@
 - It has an accuracy of 92.7%.
 - it has one more version of it Vgg 19, a total of 19 layers with weights.
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Convulution2D.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Convolution3D.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/MaxPooling.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/ReLU.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Fully%20Connected%20Node.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/project.png)
 
 ## In main project
 Step by step do this project [In here](https://medium.com/pythoneers/vgg-16-architecture-implementation-and-practical-use-e0fef1d14557)

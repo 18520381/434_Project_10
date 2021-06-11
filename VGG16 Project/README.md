@@ -14,7 +14,7 @@
 - it has one more version of it Vgg 19, a total of 19 layers with weights.
 
 ## Top model
-![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Top_VGG16.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/TopModel.png)
 
 ## Layer
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/vgg16_112x112.png)

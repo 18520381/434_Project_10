@@ -30,3 +30,15 @@
 
 ## FC
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)
+
+## RTL layer1
+![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/RTL1.png)
+
+## Python layer1
+![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/Python1.png)
+
+## RTL layer2
+![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/RTL2.png)
+
+## Python layer2
+![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/Python2.png)

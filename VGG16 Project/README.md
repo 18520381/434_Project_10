@@ -31,14 +31,10 @@
 ## FC
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)
 
-## RTL layer1
-![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/RTL1.png)
+## Layer1
+![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer1.png)
 
-## Python layer1
-![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/Python1.png)
-
-## RTL layer2
-![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/RTL2.png)
-
-## Python layer2
-![alt text](https://github.com/18520381/434_Project_10/blob/b5b4d65b7069474a0e98a4cd40280af9a9021def/VGG16%20Project/PNG/Python2.png)
+## Layer2
+![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer2.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer2.png)

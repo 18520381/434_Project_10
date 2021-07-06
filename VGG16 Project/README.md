@@ -12,6 +12,10 @@
 - Trained on ImageNet data
 - It has an accuracy of 92.7%.
 - it has one more version of it Vgg 19, a total of 19 layers with weights.
+## Get data from kaggle
+![link 1](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition)
+![link 2](https://www.kaggle.com/olgabelitskaya/tomato-cultivars)
+![link 3](https://www.kaggle.com/moltean/fruits)
 
 ## Top model
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/TopModel.png)

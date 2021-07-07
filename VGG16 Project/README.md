@@ -44,7 +44,7 @@
 ![alt text](https://github.com/18520381/434_Project_10/blob/3ddc6cf3ec1944ce13b4ee0afa98a33d40a207d5/VGG16%20Project/PNG/MSE.png)
 
 
-The smaller the result, the more accurate is
+The smaller result, the more accurate is
 
 ## Layer1 (Conv1)
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)

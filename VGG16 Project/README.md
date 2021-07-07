@@ -39,10 +39,8 @@
 
 # Mean square error (calculate error)
 [Wiki about the Mean square error](https://en.wikipedia.org/wiki/Mean_squared_error)
-The MSE either assesses the quality of a predictor (i.e., a function mapping arbitrary inputs to a sample of values of some random variable), or of an estimator (i.e., a mathematical function mapping a sample of data to an estimate of a parameter of the population from which the data is sampled). The definition of an MSE differs according to whether one is describing a predictor or an estimator.
-If a vector of {\displaystyle n}n predictions is generated from a sample of n data points on all variables, and {\displaystyle Y}Y is the vector of observed values of the variable being predicted, with {\displaystyle {\hat {Y}}}\hat{Y} being the predicted values (e.g. as from a least-squares fit), then the within-sample MSE of the predictor is computed as
-Formula: {\displaystyle \operatorname {MSE} ={\frac {1}{n}}\sum _{i=1}^{n}(\ Y_{i}-{\hat {Y_{i}}})^{2}}
-
+![alt text](https://github.com/18520381/434_Project_10/blob/3ddc6cf3ec1944ce13b4ee0afa98a33d40a207d5/VGG16%20Project/PNG/MSE.png)
+The smaller the result, the more accurate is
 
 ## Layer1
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)
@@ -58,13 +56,61 @@ Formula: {\displaystyle \operatorname {MSE} ={\frac {1}{n}}\sum _{i=1}^{n}(\ Y_{
 Mean square error: 3.5145720920190036e-16
 
 # Layer4
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
-Mean square error: 3.5145720920190036e-16
+![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/KERAS_Layer4.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/RTL_Layer4.png)
+Mean square error: 3.76737488767457e-16
 
 # Layer5
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
-Mean square error: 3.5145720920190036e-16
+![alt text]()
+![alt text]()
+Mean square error: 
 
+# Layer6
+![alt text]()
+![alt text]()
+Mean square error: 
 
+# Layer7
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer8
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer9
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer10
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer11
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer12
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer13
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer14
+![alt text]()
+![alt text]()
+Mean square error: 
+
+# Layer15
+![alt text]()
+![alt text]()
+Mean square error: 

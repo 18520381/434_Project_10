@@ -14,7 +14,9 @@
 - it has one more version of it Vgg 19, a total of 19 layers with weights.
 ## Get data from kaggle
 [link 1](https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition)
+
 [link 2](https://www.kaggle.com/olgabelitskaya/tomato-cultivars)
+
 [link 3](https://www.kaggle.com/moltean/fruits)
 
 ## Top model
@@ -35,6 +37,13 @@
 ## FC
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)
 
+# Mean square error (calculate error)
+[Wiki about the Mean square error](https://en.wikipedia.org/wiki/Mean_squared_error)
+The MSE either assesses the quality of a predictor (i.e., a function mapping arbitrary inputs to a sample of values of some random variable), or of an estimator (i.e., a mathematical function mapping a sample of data to an estimate of a parameter of the population from which the data is sampled). The definition of an MSE differs according to whether one is describing a predictor or an estimator.
+If a vector of {\displaystyle n}n predictions is generated from a sample of n data points on all variables, and {\displaystyle Y}Y is the vector of observed values of the variable being predicted, with {\displaystyle {\hat {Y}}}\hat{Y} being the predicted values (e.g. as from a least-squares fit), then the within-sample MSE of the predictor is computed as
+Formula: {\displaystyle \operatorname {MSE} ={\frac {1}{n}}\sum _{i=1}^{n}(\ Y_{i}-{\hat {Y_{i}}})^{2}}
+
+
 ## Layer1
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer1.png)
@@ -47,3 +56,15 @@
 ![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
 Mean square error: 3.5145720920190036e-16
+
+# Layer4
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
+Mean square error: 3.5145720920190036e-16
+
+# Layer5
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
+Mean square error: 3.5145720920190036e-16
+
+

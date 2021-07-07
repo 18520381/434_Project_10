@@ -65,9 +65,9 @@ Mean square error: 3.5145720920190036e-16
 Mean square error: 3.76737488767457e-16
 
 # Layer5
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/7ec3dffb0ff4c6b286b77d185b9e78aa8ca2de55/VGG16%20Project/PNG/KERAS_Layer5.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/7ec3dffb0ff4c6b286b77d185b9e78aa8ca2de55/VGG16%20Project/PNG/RTL_Layer5.png)
+Mean square error: 1.5335775032011443e-16
 
 # Layer6
 ![alt text]()

@@ -39,7 +39,11 @@
 
 # Mean square error (calculate error)
 [Wiki about the Mean square error](https://en.wikipedia.org/wiki/Mean_squared_error)
+
+
 ![alt text](https://github.com/18520381/434_Project_10/blob/3ddc6cf3ec1944ce13b4ee0afa98a33d40a207d5/VGG16%20Project/PNG/MSE.png)
+
+
 The smaller the result, the more accurate is
 
 ## Layer1

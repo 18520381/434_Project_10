@@ -42,3 +42,8 @@
 ## Layer2
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer2.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer2.png)
+
+# Layer3
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
+Mean square error: 3.5145720920190036e-16

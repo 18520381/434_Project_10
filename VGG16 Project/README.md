@@ -50,7 +50,7 @@ The smaller the result, the more accurate is
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer1.png)
 
-## Layer2
+## Layer2 + Maxpooling
 ![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer2.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer2.png)
 
@@ -59,7 +59,7 @@ The smaller the result, the more accurate is
 ![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
 Mean square error: 3.5145720920190036e-16
 
-# Layer4
+# Layer4 + Maxpooling
 ![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/KERAS_Layer4.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/RTL_Layer4.png)
 Mean square error: 3.76737488767457e-16
@@ -74,7 +74,7 @@ Mean square error: 1.5335775032011443e-16
 ![alt text]()
 Mean square error: 
 
-# Layer7
+# Layer7 + Maxpooling
 ![alt text]()
 ![alt text]()
 Mean square error: 
@@ -89,7 +89,7 @@ Mean square error:
 ![alt text]()
 Mean square error: 
 
-# Layer10
+# Layer10 + Maxpooling
 ![alt text]()
 ![alt text]()
 Mean square error: 
@@ -104,7 +104,7 @@ Mean square error:
 ![alt text]()
 Mean square error: 
 
-# Layer13
+# Layer13 + Maxpooling
 ![alt text]()
 ![alt text]()
 Mean square error: 

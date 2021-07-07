@@ -70,9 +70,9 @@ Mean square error: 3.76737488767457e-16
 Mean square error: 1.5335775032011443e-16
 
 # Layer6 (Conv6)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/55753cb2af635b66c6f9924b137d058a14f7ef6b/VGG16%20Project/PNG/KERAS_Layer6.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/55753cb2af635b66c6f9924b137d058a14f7ef6b/VGG16%20Project/PNG/RTL_Layer6.png)
+Mean square error: 5.270432605347058e-17
 
 # Layer7 (Conv7 + Maxpooling)
 ![alt text]()

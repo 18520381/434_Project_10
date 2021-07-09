@@ -97,14 +97,14 @@ Mean square error: 7.0192610813981836e-15
 Mean square error: 1.9312641055529875e-14
 
 # Layer11 (Conv11)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/6418b2b9c3a66e94cbf3e1bdaacc4abb7be9c1bb/VGG16%20Project/PNG/KERAS_Layer11.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/6418b2b9c3a66e94cbf3e1bdaacc4abb7be9c1bb/VGG16%20Project/PNG/RTL_Layer11.png)
+Mean square error: 5.5163073655425093e-14
 
 # Layer12 (Conv12)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/6418b2b9c3a66e94cbf3e1bdaacc4abb7be9c1bb/VGG16%20Project/PNG/KERAS_Layer12.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/6418b2b9c3a66e94cbf3e1bdaacc4abb7be9c1bb/VGG16%20Project/PNG/RTL_Layer12.png)
+Mean square error: 4.4412567444557807e-14
 
 # Layer13 (Conv13 + Maxpooling)
 ![alt text]()

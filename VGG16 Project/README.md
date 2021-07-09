@@ -111,12 +111,14 @@ Mean square error: 4.4412567444557807e-14
 ![alt text](https://github.com/18520381/434_Project_10/blob/b94c52aaa308acc8df68466ca687143e60e9ffea/VGG16%20Project/PNG/RTL_Layer13.png)
 Mean square error: 1.786391732841144e-13
 
+# Flating
+![alt text](https://github.com/18520381/434_Project_10/blob/849f7d04332cb0c63bb87f68068f269dada6d114/VGG16%20Project/PNG/Flating.png)
+Mean square error: 1.6182194473302047e-13
+
 # Layer14 (FC)
-![alt text]()
 ![alt text]()
 Mean square error: 
 
 # Layer15 (FC)
-![alt text]()
 ![alt text]()
 Mean square error: 

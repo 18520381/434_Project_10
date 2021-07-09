@@ -47,12 +47,13 @@
 The smaller result, the more accurate is
 
 ## Layer1 (Conv1)
-![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer1.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/KERAS_Layer1.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer1.png)
 
 ## Layer2 (Conv2 + Maxpooling)
-![alt text](https://github.com/18520381/434_Project_10/blob/4d90d9eb0c8d171591f2f7fe538446db9811eea9/VGG16%20Project/PNG/KERAS_Layer2.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer2.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/KERAS_Layer2.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/RTL_Layer2.png)
+Mean square error: 4.4917954161823246e-05
 
 # Layer3 (Conv3)
 ![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)

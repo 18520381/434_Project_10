@@ -107,9 +107,9 @@ Mean square error: 5.5163073655425093e-14
 Mean square error: 4.4412567444557807e-14
 
 # Layer13 (Conv13 + Maxpooling)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/b94c52aaa308acc8df68466ca687143e60e9ffea/VGG16%20Project/PNG/KERAS_Layer13.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/b94c52aaa308acc8df68466ca687143e60e9ffea/VGG16%20Project/PNG/RTL_Layer13.png)
+Mean square error: 1.786391732841144e-13
 
 # Layer14 (FC)
 ![alt text]()

@@ -23,7 +23,7 @@
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/TopModel.png)
 
 ## Layer
-![alt text](https://github.com/18520381/434_Project_10/blob/48a5569a74f4b07e021871bff6f7e5a8898e93c9/VGG16%20Project/PNG/Layer112x112.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/2f126a0307debdbcf69e54d4efa48217cef367b6/VGG16%20Project/PNG/Layer.png)
 
 ## Convulution
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Conv3x3.png)
@@ -48,7 +48,8 @@ The smaller result, the more accurate is
 
 ## Layer1 (Conv1)
 ![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/KERAS_Layer1.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/e20891091c9c18cbb1f419b18644ac9cc4972478/VGG16%20Project/PNG/RTL_Layer1.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/093a35e62458e6c83fb901e4386a5c6645018c2e/VGG16%20Project/PNG/RTL_Layer1.png)
+Mean square error: 7.99773288183833e-06
 
 ## Layer2 (Conv2 + Maxpooling)
 ![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/KERAS_Layer2.png)

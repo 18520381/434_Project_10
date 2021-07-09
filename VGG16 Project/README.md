@@ -57,39 +57,39 @@ Mean square error: 7.99773288183833e-06
 Mean square error: 4.4917954161823246e-05
 
 # Layer3 (Conv3)
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/KERAS_Layer3.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/427899418f574cbb64091cf5e243472674495479/VGG16%20Project/PNG/RTL_Layer3.png)
-Mean square error: 3.5145720920190036e-16
+![alt text](https://github.com/18520381/434_Project_10/blob/6e2b546d751824012b147fe4c7fcc0226d0dec99/VGG16%20Project/PNG/KERAS_Layer3.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/6e2b546d751824012b147fe4c7fcc0226d0dec99/VGG16%20Project/PNG/RTL_Layer3.png)
+Mean square error: 7.23422541465922e-15
 
 # Layer4 (Conv4 + Maxpooling)
-![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/KERAS_Layer4.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/979e52e331208d408b6704f9e3e2a34c4f74831d/VGG16%20Project/PNG/RTL_Layer4.png)
-Mean square error: 3.76737488767457e-16
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer5 (Conv5)
-![alt text](https://github.com/18520381/434_Project_10/blob/7ec3dffb0ff4c6b286b77d185b9e78aa8ca2de55/VGG16%20Project/PNG/KERAS_Layer5.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/7ec3dffb0ff4c6b286b77d185b9e78aa8ca2de55/VGG16%20Project/PNG/RTL_Layer5.png)
-Mean square error: 1.5335775032011443e-16
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer6 (Conv6)
-![alt text](https://github.com/18520381/434_Project_10/blob/55753cb2af635b66c6f9924b137d058a14f7ef6b/VGG16%20Project/PNG/KERAS_Layer6.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/55753cb2af635b66c6f9924b137d058a14f7ef6b/VGG16%20Project/PNG/RTL_Layer6.png)
-Mean square error: 5.270432605347058e-17
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer7 (Conv7 + Maxpooling)
-![alt text](https://github.com/18520381/434_Project_10/blob/56949575bcd362f23216e8484c5a751ca7a2cc87/VGG16%20Project/PNG/KERAS_Layer7.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/56949575bcd362f23216e8484c5a751ca7a2cc87/VGG16%20Project/PNG/RTL_Layer7.png)
-Mean square error: 5.000144607958044e-17
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer8 (Conv8)
-![alt text](https://github.com/18520381/434_Project_10/blob/8c5ce3d6e93e21910c8bb5117e0a2a64455e809e/VGG16%20Project/PNG/KERAS_Layer8.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/8c5ce3d6e93e21910c8bb5117e0a2a64455e809e/VGG16%20Project/PNG/RTL_Layer8.png)
-Mean square error: 2.3982787150238187e-17
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer9 (Conv9)
-![alt text](https://github.com/18520381/434_Project_10/blob/f34a102baee47f318bfc41a3683d00b94037fbac/VGG16%20Project/PNG/KERAS_Layer9.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/f34a102baee47f318bfc41a3683d00b94037fbac/VGG16%20Project/PNG/RTL_Layer9.png)
-Mean square error: 1.602033171831419e-18
+![alt text]()
+![alt text]()
+Mean square error: 
 
 # Layer10 (Conv10 + Maxpooling)
 ![alt text]()

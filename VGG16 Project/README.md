@@ -82,9 +82,9 @@ Mean square error: 5.3457293917565884e-15
 Mean square error: 8.079416092229458e-15
 
 # Layer8 (Conv8)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/ae709e7618313571a88bd9c0d1b28d0a50b50b19/VGG16%20Project/PNG/KERAS_Layer8.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/ae709e7618313571a88bd9c0d1b28d0a50b50b19/VGG16%20Project/PNG/RTL_Layer8.png)
+Mean square error: 4.496632259782603e-15
 
 # Layer9 (Conv9)
 ![alt text]()

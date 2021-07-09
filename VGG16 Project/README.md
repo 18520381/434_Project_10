@@ -67,9 +67,9 @@ Mean square error: 7.23422541465922e-15
 Mean square error: 6.8960714185873534e-15
 
 # Layer5 (Conv5)
-![alt text]()
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/27c5a0db13b5a05a56e1b37f90d4dcccc912c164/VGG16%20Project/PNG/KERAS_Layer5.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/27c5a0db13b5a05a56e1b37f90d4dcccc912c164/VGG16%20Project/PNG/RTL_Layer5.png)
+Mean square error: 3.2191558913759888e-15
 
 # Layer6 (Conv6)
 ![alt text]()

@@ -113,6 +113,8 @@ Mean square error: 1.786391732841144e-13
 
 # Flating
 ![alt text](https://github.com/18520381/434_Project_10/blob/849f7d04332cb0c63bb87f68068f269dada6d114/VGG16%20Project/PNG/Flating.png)
+
+
 Mean square error: 1.6182194473302047e-13
 
 # Layer14 (FC)

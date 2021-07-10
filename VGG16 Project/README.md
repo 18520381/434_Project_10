@@ -46,6 +46,9 @@
 
 The smaller result, the more accurate is
 
+## Input
+![alt text](https://github.com/18520381/434_Project_10/blob/5788f01266173b0753b1b010c480edbd33d51f88/VGG16%20Project/PNG/Input.png)
+
 ## Layer1 (Conv1)
 ![alt text](https://github.com/18520381/434_Project_10/blob/b95783b5ddb928a6545d5117af15a1bb8c4aaca4/VGG16%20Project/PNG/KERAS_Layer1.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/093a35e62458e6c83fb901e4386a5c6645018c2e/VGG16%20Project/PNG/RTL_Layer1.png)

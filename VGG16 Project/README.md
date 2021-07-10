@@ -117,10 +117,12 @@ Mean square error: 1.786391732841144e-13
 
 Mean square error: 1.6182194473302047e-13
 
-# Layer14 (FC)
-![alt text]()
-Mean square error: 
+# Layer14 (FC1)
+![alt text](https://github.com/18520381/434_Project_10/blob/91a640a9237b0e29181444d569ed28ebdcc59018/VGG16%20Project/PNG/FC1.png)
 
-# Layer15 (FC)
+
+Mean square error: 1.0658141036401503e-13
+
+# Layer15 (FC2)
 ![alt text]()
 Mean square error: 

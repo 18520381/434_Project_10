@@ -127,5 +127,7 @@ Mean square error: 1.6182194473302047e-13
 Mean square error: 1.0658141036401503e-13
 
 # Layer15 (FC2)
-![alt text]()
-Mean square error: 
+![alt text](https://github.com/18520381/434_Project_10/blob/771d280413ff2de20b9cb98d59f4b83619a69847/VGG16%20Project/PNG/FC2.png)
+
+
+Mean square error: 3.5128150388530344e-17

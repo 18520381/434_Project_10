@@ -33,6 +33,7 @@
 
 ## FC
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC%20Node.png)
 
 # Mean square error (calculate error)
 [Wiki about the Mean square error](https://en.wikipedia.org/wiki/Mean_squared_error)

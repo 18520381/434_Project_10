@@ -24,7 +24,6 @@
 ## Convulution
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/CON3D.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/CON2D.png)
-![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Line_buffer.png)
 
 ## ReLU
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/ReLU.png)

@@ -22,13 +22,15 @@
 ![alt text](https://github.com/18520381/434_Project_10/blob/2f126a0307debdbcf69e54d4efa48217cef367b6/VGG16%20Project/PNG/Layer.png)
 
 ## Convulution
-![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Conv3x3.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/CON3D.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/CON2D.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Line_buffer.png)
 
 ## ReLU
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/ReLU.png)
 
 ## Max Pooling  
-![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Max_Pooling.png)
+![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Max%20Pooling.png)
 
 ## FC
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)

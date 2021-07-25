@@ -32,7 +32,6 @@
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/Max%20Pooling.png)
 
 ## FC
-![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC.png)
 ![alt text](https://github.com/18520381/434_Project_10/blob/main/VGG16%20Project/PNG/FC%20Node.png)
 
 # Mean square error (calculate error)
